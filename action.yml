@@ -1,4 +1,4 @@
-name: 'Run Jenkins Job and get build result'
+name: 'Run Jenkins Job'
 description: 'Triggers Jenkins Job and get build result'
 author: 'Toptal'
 inputs:
